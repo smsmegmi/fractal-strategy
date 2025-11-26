@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ַ׃ÊַׁÊםּםֹ ַבÝַׁßÊב</title>
+  <style>
+      body {
+          font-family: Arial, sans-serif;
+          line-height: 1.6;
+          margin: 20px;
+          background-color: #f4f4f4;
+      }
+      h1, h2 {
+          color: #333;
+      }
+      ul {
+          list-style-type: disc;
+          margin-left: 20px;
+      }
+      .container {
+          background: #fff;
+          padding: 20px;
+          border-radius: 5px;
+          box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+  </style>
+</head>
+<body>
+  <div class="container">
+      <h1>ַ׃ÊַׁÊםּםֹ ַבÝַׁßÊב</h1>
+      <h2>ַבוֿÝ ַבֶׁם׃ם</h2>
+      <p>ÊוֿÝ ַ׃ÊַׁÊםּםֹ ַבÝַׁßÊב ֵבל ַבÊהִָ ַָב׃בזß ַבֶַֿׁ ַבÞַֿד זַבדּוזב דה ־בַב ַבÞםַֹֿ Úבל ַב׃בזß ַב׃ַָÞ. ÊÚÊדֿ Úבל Ýßֹׁ ֳה ַבÊַׁם־ םÚםֿ הÝ׃ו דה ־בַב ׃בזßםַÊ דÚםהֹ.</p>
+
+      <h2>1. ÊÚׁםÝ ַבÝַׁßÊב</h2>
+      <ul>
+          <li><strong>Úבד ׁםַײם:</strong> ַבÝַׁßÊב וז Úבד ׁםַײם םÊÚַדב דÚ Þםַ׃ַÊ Ûםׁ Ýזׁםֹ.</li>
+          <li><strong>Êהַ׃־ זÊßַׁׁ:</strong> םװםׁ ֵבל Êßַׁׁ ַבֽׁßֹ ַב׃בזßםֹ ָםה ַבֵׁ׃ַב.</li>
+      </ul>
+
+      <h2>2. ַבדÝַוםד ַבֳ׃ַ׃םֹ בַ׃ÊַׁÊםּםֹ ַבÝַׁßÊב</h2>
+      <ul>
+          <li><strong>ÊױÛםׁ זÊßָםׁ:</strong> ßב ֽׁßֹ ׃Úׁםֹ Ê׃ÊÞׁ ֵבל ÊױÛםׁ זדßָׁ.</li>
+          <li><strong>ַבהַ׃־ זַבדה׃ז־:</strong> םÊֽׁß ַב׃בזß ַב׀ם םÊßׁׁ בםÙוׁ Êװַָונַ.</li>
+          <li><strong>ַבÊßַׁׁ ֳָׁÚ דַׁÊ Ýם ַב־״ֳ ַבזַֽֿ:</strong> םזּֿ ֳָׁÚ ַהֿÝַÚַÊ ÝׁÚםֹ.</li>
+          <li><strong>ַבַ־Êבַ״ ַבÚֶַבם:</strong> םָּ ֳה Êßזה ַבדֽׁßַÊ ֽ׃ַ׃ֹ זדהÞ׃דֹ.</li>
+          <li><strong>דה״Þֹ ַב׃זםÊ ׂזה:</strong> ום ֳÝײב דה״Þֹ בבװֱַׁ ֳז ַבָםÚ.</li>
+          <li><strong>ַב׃בזß ַבַהÚßַ׃ם:</strong> םֽֿֿ ַב׃בזß ַבÚַד בבֽׁßֹ ַבÞַֿדֹ.</li>
+      </ul>
+
+      <h2>3. Ê״ָםÞ ַ׃ÊַׁÊםּםֹ ַבÝַׁßÊב</h2>
+      <ul>
+          <li>ײָ״ ַבַÊַּו ַבדהַ׃ָ ָֽםֻ Êßזה ַבױזֹׁ זַײֹֽ בבÚםה.</li>
+          <li>Êֽֿםֿ ַב׃בזß ַב׃Úׁם.</li>
+          <li>Êֽֿםֿ ַב׃בזß ַב׃בזßם זַב׃זםÊ ׂזה.</li>
+      </ul>
+
+      <h2>ֳֿזַÊ ַבÊֽבםב</h2>
+      <p>םדßה Ê״ָםÞ ַ׃ÊַׁÊםּםֹ ַבÝַׁßÊב Úבל ַבזםָ ֳז Úָׁ Ê״ָםÞַÊ ַבוַÊÝ ַבדֽדזב ַָ׃Ê־ַֿד ַבÊֽבםב ַבבֽÙם בבװַׁÊַÊ.</p>
+  </div>
+</body>
+</html>
